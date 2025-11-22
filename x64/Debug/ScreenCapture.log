@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 5.14.2
+  moc main.cpp
+  main.cpp
+  ScreenCapture.vcxproj -> D:\音视频开发学习\ScreenCapture\x64\Debug\ScreenCapture.exe
